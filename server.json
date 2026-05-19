@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/wordnik",
+  "title": "Wordnik",
+  "description": "Wordnik English dictionary: definitions, examples, related words, WotD.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/wordnik",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-wordnik",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/wordnik/mcp"
+    }
+  ]
+}
