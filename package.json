@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-wordnik",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Wordnik MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1dfa2ffa9bd18395488efd14fc8815249637658ae81a266de13fbe442b077ae4",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-fafeb8c4d80b5827da3783a12ede63303b7677f453d5ad82c4dfa4f29a470e43",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
