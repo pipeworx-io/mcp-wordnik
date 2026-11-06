@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-wordnik",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Wordnik MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "wordnik",
     "gatewaySlug": "wordnik",
-    "sourceHash": "v1-f157233ee296ff8909b6b6d7011f373996f5775d34ce7e28951cb97764edb311",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-f7d1cbe9418de0bf22eb5174ae632c2b1bdb03076a013de28cbdbdc044218616",
+    "sourceCommit": "78b905fa3a6880dfb85c79150f4bffe8cf50ef00"
   }
 }
